@@ -1,3 +1,1 @@
-```js
-alert('Hello, world!');
-```
+Este é um arquivo de teste.
